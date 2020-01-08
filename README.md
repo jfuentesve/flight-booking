@@ -2,6 +2,9 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.0.
 
+## Initial NPM Build
+run `npm install`
+
 ## Development server
 
 Run `http-server ./dist/flight-booking -p 8081` for a dev server. Navigate to `http://localhost:8081/main.js`. The app will automatically reload if you change any of the source files.
